@@ -40,7 +40,7 @@
     "registerSpecificEnchant": false,
     "hideEnchant": false
   },
-  "sneakMode": "SNEAK_IGNORED",
-  "breakInCreative": false,
+  "sneakMode": "IGNORE",
+  "breakInCreative": true,
   "notificationMode": "ACTION_BAR"
 }
