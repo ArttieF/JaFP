@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Default Server",
+      "address": "98.192.145.247:25565",
+      "forced": false
+    }
+  ]
+}
