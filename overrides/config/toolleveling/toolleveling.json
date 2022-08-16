@@ -23,13 +23,13 @@
     "minecraft:silk_touch"
   ],
   "enchantmentCaps": {
+    "minecraft:projectile_protection": 9,
     "minecraft:fire_protection": 9,
     "minecraft:protection": 9,
-    "minecraft:blast_protection": 9,
-    "minecraft:projectile_protection": 9
+    "minecraft:blast_protection": 9
   },
   "enchantmentUpgradeCostModifier": {
     "minecraft:looting": 1.5,
-    "minecraft:fortune": 2
+    "minecraft:fortune": 2.0
   }
 }
