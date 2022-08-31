@@ -10,8 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "JaFP Dev",
-  "author": "",
+  "name": "JaFP v0.1.3-Dev",
+  "version": "0.1.3",
+  "author": "Arttie",
   "files": [
     {
       "projectID": 554277,
