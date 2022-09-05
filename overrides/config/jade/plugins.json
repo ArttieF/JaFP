@@ -4,6 +4,7 @@
     "chicken_egg": true,
     "jukebox": true,
     "brewing_stand": true,
+    "animal_owner": true,
     "note_block": true,
     "beehive": true,
     "block_inventory": true,
