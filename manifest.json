@@ -11,17 +11,16 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "JaFP 0.1.6",
-  "version": "0.1.6",
-  "author": "Jaredlll08",
+  "author": "cominixo",
   "files": [
-    {
-      "projectID": 532610,
-      "fileID": 4152949,
-      "required": true
-    },
     {
       "projectID": 415438,
       "fileID": 4046720,
+      "required": true
+    },
+    {
+      "projectID": 568316,
+      "fileID": 4187186,
       "required": true
     },
     {
@@ -45,11 +44,6 @@
       "required": true
     },
     {
-      "projectID": 568316,
-      "fileID": 4187186,
-      "required": true
-    },
-    {
       "projectID": 324717,
       "fileID": 4159776,
       "required": true
@@ -67,6 +61,11 @@
     {
       "projectID": 32274,
       "fileID": 4148675,
+      "required": true
+    },
+    {
+      "projectID": 532610,
+      "fileID": 4028921,
       "required": true
     },
     {
@@ -107,6 +106,11 @@
     {
       "projectID": 401648,
       "fileID": 4030572,
+      "required": true
+    },
+    {
+      "projectID": 568316,
+      "fileID": 4203077,
       "required": true
     }
   ],
