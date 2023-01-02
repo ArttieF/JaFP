@@ -11,17 +11,17 @@
 	"pursePositionY": 20,
 	"lootOptions": {
 		// Affects money gained from Dungeon and Mineshaft chests
-		"desertMinLoot": 300,
+		"desertMinLoot": 600,
 		// Affects money gained from Dungeon and Mineshaft chests
-		"desertMaxLoot": 1200,
+		"desertMaxLoot": 2400,
 		// Affects money gained from Dungeon and Mineshaft chests
-		"dungeonMinLoot": 500,
+		"dungeonMinLoot": 1000,
 		// Affects money gained from Dungeon and Mineshaft chests
-		"dungeonMaxLoot": 2000,
+		"dungeonMaxLoot": 4000,
 		// Affects money gained from Bastion, Stronghold, Outpost and Buried Treasure chests
-		"structureMinLoot": 1500,
-		"structureMaxLoot": 4000,
-		"strongholdLibraryMinLoot": 2000,
-		"strongholdLibraryMaxLoot": 6000
+		"structureMinLoot": 3000,
+		"structureMaxLoot": 8000,
+		"strongholdLibraryMinLoot": 4000,
+		"strongholdLibraryMaxLoot": 12000
 	}
 }
